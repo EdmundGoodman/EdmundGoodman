@@ -3,6 +3,10 @@ A git repository storing my CV, and references to my published code
 
 ***
 
+[Word document containing my CV](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/cv.docx)
+
+***
+
 Extra-curricular projects I have completed are stored in repositories on this git account:
 
 1. Large, completed projects with a significant software component
