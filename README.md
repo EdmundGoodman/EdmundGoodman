@@ -21,12 +21,12 @@ Extra-curricular projects I have completed are stored in repositories on this gi
     * [Hangman winner](https://github.com/EdmundGoodman/hangman-solver), a project designed to play Hangman as well as possible
     * [Boggle winner](https://github.com/EdmundGoodman/boggle-game), a project designed to play Boggle as well as possible
     * [Probe winner](https://github.com/EdmundGoodman/probeWinner), a project designed to play Probe as well as possible
-    * [Towers of Hanoi winner](https://github.com/EdmundGoodman/towers-of-hanoi), a project designed to complete the Towers of Hanoi problem optimally
 
 4. Simulators of various formal and real-life systems
     * [Conway's game of life](https://github.com/EdmundGoodman/conways-game-of-life), a project simulating the cellular automata Conway's game of life
     * [Langton's ant](https://github.com/EdmundGoodman/langtons-ant), a project simulating the cellular automata Langton's ant
     * [Physics simulator](https://github.com/EdmundGoodman/physics-simulator), a project simulating the movement of particles due to electrostatic or gravitational forces
+    * [Towers of Hanoi winner](https://github.com/EdmundGoodman/towers-of-hanoi), a project designed to complete the Towers of Hanoi problem optimally
 
 5. Miscellaneous projects
     * [Markov chains](https://github.com/EdmundGoodman/markov-chains), a project employing stochastic processes to natural language processing \- randomly generating human-readable text from a corpus data set
