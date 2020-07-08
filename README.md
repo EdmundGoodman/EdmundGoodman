@@ -33,10 +33,6 @@ Extra-curricular projects I have completed are stored in repositories on this gi
     * [Monty hall](https://github.com/EdmundGoodman/monty-hall), a project simulating the Monty hall problem, showing that changing the selection is the better course of action
     * [Partition numbers](https://github.com/EdmundGoodman/partition-numbers), a project to generate the nth partition number
 
-6. Repositories of first principles neural networks, written leading up to my rouse research project
-    * [First principles neural networks](https://github.com/EdmundGoodman/simple-neural-network), a project to write my own implementation of a neural network, from scratch, to better understand the concepts behind it
-    * [First principles backpropagation](https://github.com/EdmundGoodman/simple-backpropagation), a project to write my own implementation of the backpropagation algorithm, from scratch, to better understand the concepts behind it
-
 ***
 
 ![Edmund Goodman](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/portrait.jpg?raw=true)
