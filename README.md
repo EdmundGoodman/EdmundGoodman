@@ -33,6 +33,4 @@ Extra-curricular projects I have completed are stored in repositories on this gi
     * [Monty hall](https://github.com/EdmundGoodman/monty-hall), a project simulating the Monty hall problem, showing that changing the selection is the better course of action
     * [Partition numbers](https://github.com/EdmundGoodman/partition-numbers), a project to generate the nth partition number
 
-[comment]: # ![Edmund Goodman](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/portrait.jpg?raw=true)
-
 Edmund Goodman \- 2020
