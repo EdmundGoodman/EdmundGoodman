@@ -1,0 +1,209 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\title{CV}
+\author{Edmund Goodman}
+\date{October 2020}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+
+\begin{center}
+    \textbf{\Huge \scshape Edmund Goodman} \\ \vspace{1pt}
+    \href{mailto:Edmund.Goodman@warwick.ac.uk}{\underline{Edmund.Goodman@warwick.ac.uk}} $|$ 
+    \href{https://www.linkedin.com/in/EdmundGoodman}{\underline{linkedin.com/in/EdmundGoodman}} $|$
+    \href{https://github.com/EdmundGoodman}{\underline{github.com/EdmundGoodman}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Warwick University}{Coventry, England}
+      {MEng Computer Science}{Sept. 2020 - June 2024}
+    \resumeSubheading
+      {The Perse Sixth Form}{Cambridge, England}
+      {A-levels in Maths (D2), Further Maths (D3), Physics (D1) and Computer Science (A*)}{Sept. 2018 - June 2020}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Software Engineering Intern}{Jul 2020 \- Sept 2020}
+      {HUBER+SUHNER Polatis}{Cambridge, England}
+      \resumeItemListStart
+        \resumeItem{Updated a testing harness for fibre optic switches from python2 to python3}
+        \resumeItem{Refactored the VBA backend of an excel spreadsheet used for corporate planning, created visual representations for the aforementioned planning data}
+        \resumeItem{Wrote a Java implementation of NETCONF call home (https://tools.ietf.org/html/rfc8071) for the open source ONOS project, which is in the process of being upstreamed into the main codebase}
+      \resumeItemListEnd
+      
+    \resumeSubheading
+      {Software Engineering Work Experience}{Jul 2017}
+      {Argon Design}{Cambridge, England}
+      \resumeItemListStart
+        \resumeItem{Refactored and redesigned an information display board, converting a monolithic file into a series of microservices running with a python LAMP server, in order to serve the updated UI}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Engineering Education Scheme} $|$ \emph{Python, C++}}{Sept. 2019 - Apr. 2019}
+          \resumeItemListStart
+            \resumeItem{Lead the software aspect of the school "Engineering Education Scheme" entry, building an autonomous tennis ball collector to the help sports teachers -  \href{https://github.com/EdmundGoodman/EES}{\underline{Project link}}
+            , \href{https://drive.google.com/file/d/1t9qVtQVATlVSCroJkCgrlD1hFjH6NqUE/view}{\underline{Video}}}
+            \resumeItem{Implemented first principles image recognition for tennis balls, using CLAHE, median blurs, laplacian transforms, and the Hough circles algorithm}
+            \resumeItem{Wrote search algorithm to find the balls, and interfaced with the drive and flywheel motors to collect them}
+            \resumeItem{Contributed to the hardware aspect, manufacturing parts of the shell, and battery and flywheel mountings}
+            \resumeItem{Wrote command line and graphical interfaces to remotely control the robot, allowing both manual and automatic modes}
+          \resumeItemListEnd
+          
+      \resumeProjectHeading
+          {\textbf{Rouse Research} $|$ \emph{Python}}{Sept. 2019 - Apr. 2019}
+          \resumeItemListStart
+            \resumeItem{Received a Distinction for a project titled 
+            "How effective are machine learning algorithms compared to traditional analytical techniques with respect to play abstract games"  
+            \href{https://github.com/EdmundGoodman/rouse-research}{\underline{Project link}}}
+            \resumeItem{Derived and implemented neural networks from first principles, including using back-propogation to train them to play noughts and crosses optimally}
+            \resumeItem{Implemented genetic algorithms to play noughts and crosses, and compared their efficacy to neural networks}
+            \resumeItem{Implemented tree search algorithms, including minimax with alpha-beta pruning}
+          \resumeItemListEnd
+          
+    \resumeSubHeadingListEnd
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Acheivements}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Music}{: Trinity Guildhall Grade 8 Trumpet, ABRSM Grade 7 singing, Pro Corda national chamber music finalist, previous head chorister of Jesus College Choir} \\
+     \textbf{Cyber Security}{: Reached the final round of the Cyber Discovery competition, hence attending two SANS courses, SEC504: "Hacker Tools, Techniques, Exploits, and Incident Handling", and FOR500: "Windows Forensic Analysis"} \\
+     \textbf{Gold Crest award, and Gold level industrial cadet}{: Awarded due to completing the EES project mentioned above} \\
+     \textbf{Air Cadet Leadership Course}{: One of ~240 each year to graduate a demanding week long course at RAF Cranwell teaching practical leadership skills, where I learned how to plan an exercise, communicate effectively, and command a team of nine other cadets}
+    }}
+ \end{itemize}
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Python, Java, Bash, VBA, Javascript with jQuery, BASIC, PHP, HTML, CSS, SQL} \\
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
