@@ -1,9 +1,9 @@
 # EdmundGoodman
-A git repository storing my CV, and references to my published code
+A git repository storing my personal statement, and references to my published code
 
 ***
 
-[Word document containing my CV](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/cv.docx)
+[PDF containing my personal statement](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/personalStatement.pdf)
 
 ***
 
@@ -35,6 +35,4 @@ Extra-curricular projects I have completed are stored in repositories on this gi
 
 ***
 
-![Edmund Goodman](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/portrait.jpg?raw=true)
-
-Edmund Goodman \- 2019
+Edmund Goodman \- 2020
