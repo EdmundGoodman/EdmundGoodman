@@ -1,7 +1,5 @@
 # Edmund Goodman
 
-***
-
 [Personal Statement](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/personalStatement.pdf)
 
 [Curriculum Vitae](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/curriculumVitae.pdf)
@@ -16,24 +14,28 @@ Various extra-curricular projects I have completed are stored in repositories on
     - [EES](https://github.com/EdmundGoodman/EES), the code repository for an automated tennis ball collector entered into the engineering education scheme
 
     - Programs to play games well
-        - [Hangman winner](https://github.com/EdmundGoodman/hangman-solver), a project designed to play Hangman as well as possible
-        - [Boggle winner](https://github.com/EdmundGoodman/boggle-game), a project designed to play Boggle as well as possible
-        - [Probe winner](https://github.com/EdmundGoodman/probeWinner), a project designed to play Probe as well as possible
+        - [Hangman](https://github.com/EdmundGoodman/hangman-solver)
+        - [Boggle](https://github.com/EdmundGoodman/boggle-game)
+        - [Probe](https://github.com/EdmundGoodman/probeWinner)
 
     - Programs to process text
-        - [Markov chains](https://github.com/EdmundGoodman/markov-chains), a project employing stochastic processes to natural language processing \- randomly generating human-readable text from a corpus data set
+        - [Markov chains](https://github.com/EdmundGoodman/markov-chains), employing stochastic processes to natural language processing \- randomly generating human-readable text from a corpus data set
 
     - Programs to simulate things
-        - [Conway's game of life](https://github.com/EdmundGoodman/conways-game-of-life), a project simulating the cellular automata Conway's game of life
-        - [Langton's ant](https://github.com/EdmundGoodman/langtons-ant), a project simulating the cellular automata Langton's ant
-        - [Physics simulator](https://github.com/EdmundGoodman/physics-simulator), a project simulating the movement of particles due to electrostatic or gravitational forces
-        - [Monty hall](https://github.com/EdmundGoodman/monty-hall), a project simulating the Monty hall problem, showing that changing the selection is the better course of action
+        - [Card model](https://github.com/EdmundGoodman/cardModel), an object model of a pack of cards to facilitate writing programs to play card games
+        - [Conway's game of life](https://github.com/EdmundGoodman/conways-game-of-life), simulating the cellular automata Conway's game of life
+        - [Langton's ant](https://github.com/EdmundGoodman/langtons-ant), simulating the cellular automata Langton's ant
+        - [Physics simulator](https://github.com/EdmundGoodman/physics-simulator), simulating the movement of particles due to electrostatic or gravitational forces
+        - [Monty hall](https://github.com/EdmundGoodman/monty-hall), simulating the Monty hall problem, showing that changing the selection is the better course of action
 
-***
+    - Templates and utilities for things
+        - [LaTeX documents](https://github.com/EdmundGoodman/LaTeXTemplate)
+        - [Bash utilities](https://github.com/EdmundGoodman/BashUtilities)
+
 
 2. Ongoing projects
+    - [Go Fish](https://github.com/EdmundGoodman/goFish), a work in progress to play the card game "Go Fish"
 
-***
 
 3. University coursework, as private repositories to conform to plagiarism regulations, available to view on reasonable request
     - [CS118 Robot Maze](https://github.com/EdmundGoodman/CS118RobotMaze)
@@ -41,16 +43,18 @@ Various extra-curricular projects I have completed are stored in repositories on
     - [CS132 Coursework #2](https://github.com/EdmundGoodman/CS132Coursework2)
     - [CS133 Lab Diary](https://github.com/EdmundGoodman/CS133Labs)
 
+
 4. A-level coursework, as private repositories to conform to exam board regulations, available to view on reasonable request
     - [Computer science coursework](https://github.com/EdmundGoodman/NEA-Project)
     - [Physics coursework](https://github.com/EdmundGoodman/physics-coursework)
 
-***
 
 5. Programming problems
     - [Partition numbers](https://github.com/EdmundGoodman/partition-numbers), a solution to the problem of generating the partition numbers efficiently
     - [Towers of Hanoi winner](https://github.com/EdmundGoodman/towers-of-hanoi), a solution to completing the Towers of Hanoi problem in the fewest moves
 
+
 ***
+
 
 Edmund Goodman \- 2021
