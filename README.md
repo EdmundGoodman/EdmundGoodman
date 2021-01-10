@@ -34,7 +34,8 @@ Various extra-curricular projects I have completed are stored in repositories on
 
 
 2. Ongoing projects
-    - [Go Fish](https://github.com/EdmundGoodman/goFish), a work in progress to play the card game "Go Fish"
+    - [Website](https://github.com/EdmundGoodman/website), developing a website
+    - [Go Fish](https://github.com/EdmundGoodman/goFish), developing a program to play the card game "Go Fish"
 
 
 3. University coursework, as private repositories to conform to plagiarism regulations, available to view on reasonable request
