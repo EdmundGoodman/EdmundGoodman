@@ -38,19 +38,7 @@ Various extra-curricular projects I have completed are stored in repositories on
     - [Go Fish](https://github.com/EdmundGoodman/goFish), developing a program to play the card game "Go Fish"
 
 
-3. University coursework, as private repositories to conform to plagiarism regulations, available to view on reasonable request
-    - [CS118 Robot Maze](https://github.com/EdmundGoodman/CS118RobotMaze)
-    - [CS132 Coursework #1](https://github.com/EdmundGoodman/CS132Coursework1)
-    - [CS132 Coursework #2](https://github.com/EdmundGoodman/CS132Coursework2)
-    - [CS133 Lab Diary](https://github.com/EdmundGoodman/CS133Labs)
-
-
-4. A-level coursework, as private repositories to conform to exam board regulations, available to view on reasonable request
-    - [Computer science coursework](https://github.com/EdmundGoodman/NEA-Project)
-    - [Physics coursework](https://github.com/EdmundGoodman/physics-coursework)
-
-
-5. Programming problems
+3. Programming problems
     - [Partition numbers](https://github.com/EdmundGoodman/partition-numbers), a solution to the problem of generating the partition numbers efficiently
     - [Towers of Hanoi winner](https://github.com/EdmundGoodman/towers-of-hanoi), a solution to completing the Towers of Hanoi problem in the fewest moves
 
