@@ -1,8 +1,8 @@
 # Edmund Goodman
 
-[Personal Statement](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/edmundGoodmanStatement.pdf)
-
 [Curriculum Vitae](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/edmundGoodmanCV.pdf)
+
+[Personal Statement](https://github.com/EdmundGoodman/EdmundGoodman/blob/master/edmundGoodmanStatement.pdf)
 
 ***
 
