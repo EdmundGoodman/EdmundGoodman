@@ -23,7 +23,7 @@ Various extra-curricular projects I have completed are stored in repositories on
 
 
 2. Ongoing projects
-   - [Computer science revision guides](https://github.com/EdmundGoodman/cs118.github.io), a fork of the notes for the first year Computer Science at the University of Warwick, which I am helping co-ordinating contributions to.
+   - [Computer science revision guides](https://github.com/EdmundGoodman/dcs-notes.github.io), a fork of the site containing revision notes for the first year Computer Science at the University of Warwick, which I am helping co-ordinating contributions to.
    - [Website](https://github.com/EdmundGoodman/EdmundGoodman.github.io), developing a website
    - [Go Fish](https://github.com/EdmundGoodman/goFish), developing a program to play the card game "Go Fish"
 
