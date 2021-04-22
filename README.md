@@ -17,9 +17,11 @@ Various extra-curricular projects I have completed are stored in repositories on
 
 
 ***
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmundGoodman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmundGoodman&hide=c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align:center">
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdmundGoodman&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+   <br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmundGoodman&hide=c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ***
 
