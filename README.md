@@ -22,6 +22,7 @@ Various extra-curricular projects I have completed are stored in repositories on
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmundGoodman&hide=c%2B%2B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 Excluding private repositories due to API limitations (my university work would skew it very heavily to Java if included)
 
 ***
