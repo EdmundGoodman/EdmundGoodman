@@ -21,6 +21,17 @@ I'm currently studying computer science at the University of Warwick
    </a>
 </p>
 
+<h2 align="center"> Language & Frameworks </h2>
+
+<p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
+<img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><span> </span>
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
+   
+</p>
 
 ***
 
