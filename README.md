@@ -10,6 +10,7 @@
    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235E5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/><span> </span>
    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
    <img alt="Excel with VBA" src="https://img.shields.io/badge/Excel_%26_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><span> </span>
+   <br/>
    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><span> </span>
    <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
