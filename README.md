@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Edmund Goodman - Welcome to my GitHub </h1>
 
 <p align="center">
-   I'm currently studying computer science at the University of Warwick
+   Currently studying for a masters in computer science at the University of Warwick
 </p>
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
