@@ -18,13 +18,13 @@
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
    <br/>
-   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanCV.pdf">
+   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanCV.pdf" style="text-decoration: none">
       <img alt="Curriculum Vitae" src="https://img.shields.io/badge/Curriculum_Vitae-DC143C.svg?style=for-the-badge"><span> </span>
    </a>
-   <a href="https://www.linkedin.com/in/edmundgoodman/">
+   <a href="https://www.linkedin.com/in/edmundgoodman/" style="text-decoration: none">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
    </a>
-   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanStatement.pdf">
+   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanStatement.pdf" style="text-decoration: none">
       <img alt="Personal Statement" src="https://img.shields.io/badge/Personal_Statement-32CD32?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
    </a>
 </p>
