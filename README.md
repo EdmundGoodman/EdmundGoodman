@@ -1,8 +1,10 @@
 <h1 align="center"> I'm Edmund Goodman - Welcome to my GitHub </h1>
 
+
 <p align="center">
    Currently studying for a Computer Science MEng at the University of Warwick
 </p>
+
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
@@ -17,7 +19,17 @@
    <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
-   <br/>
+</p>
+
+
+<p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdmundGoodman&count_private=true&show_icons=true">
+   </a>
+</p>
+
+
+<p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
    <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanCV.pdf">
       <img alt="Curriculum Vitae" src="https://img.shields.io/badge/Curriculum_Vitae-DC143C.svg?style=for-the-badge"><span> </span>
    </a>
@@ -26,11 +38,5 @@
    </a>
    <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanStatement.pdf">
       <img alt="Personal Statement" src="https://img.shields.io/badge/Personal_Statement-32CD32?style=for-the-badge"><span> </span>
-   </a>
-</p>
-
-<p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=EdmundGoodman&count_private=true&show_icons=true">
    </a>
 </p>
