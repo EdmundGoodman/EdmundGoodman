@@ -19,10 +19,13 @@
    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
    <br/>
    <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanCV.pdf">
-      <img alt="CV" src="https://img.shields.io/badge/Curriculum_Vitae-DC143C.svg?style=for-the-badge"><span> </span>
+      <img alt="Curriculum Vitae" src="https://img.shields.io/badge/Curriculum_Vitae-DC143C.svg?style=for-the-badge"><span> </span>
    </a>
    <a href="https://www.linkedin.com/in/edmundgoodman/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
+   </a>
+   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanStatement.pdf">
+      <img alt="Personal Statement" src="https://img.shields.io/badge/Personal_Statement-32CD32?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
    </a>
 </p>
 
