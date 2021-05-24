@@ -18,7 +18,7 @@
    <img alt="LaTeX" src="https://img.shields.io/badge/Latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><span> </span>
    <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
-   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
+   <img alt="WSL" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
 </p>
 
 
