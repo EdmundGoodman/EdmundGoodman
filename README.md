@@ -41,6 +41,6 @@
    </a>
 </p>
 
-<h2 align="center">
+<p align="center">
    Come visit my <a href="https://edmundgoodman.github.io/">website</a> to see more
-</h2>
+</p>
