@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Edmund Goodman - Welcome to my GitHub </h1>
+<h1 align="center"> I'm Edmund Goodman - Welcome to my GitHub</h1>
 
 
 <p align="center">
@@ -40,3 +40,7 @@
       <img alt="Personal Statement" src="https://img.shields.io/badge/Personal_Statement-32CD32?style=for-the-badge"><span> </span>
    </a>
 </p>
+
+<h2 align="center">
+   Come visit my <a href="https://edmundgoodman.github.io/">website</a> to see more
+</h2>
