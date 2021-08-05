@@ -10,7 +10,6 @@
    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235E5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/><span> </span>
-   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/><span> </span>
    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
    <img alt="VBA & Excel" src="https://img.shields.io/badge/VBA_%26_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><span> </span>
    <br/>
