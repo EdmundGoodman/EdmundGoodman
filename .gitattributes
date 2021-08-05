@@ -1,3 +1,4 @@
 # Register markdown and text files in the language breakdown
 *.md linguist-detectable=true
 *.txt linguist-detectable=true
+*.pdf linguist-detectable=true
