@@ -35,9 +35,6 @@
    <a href="https://www.linkedin.com/in/edmundgoodman/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
    </a>
-   <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanStatement.pdf">
-      <img alt="Personal Statement" src="https://img.shields.io/badge/Personal_Statement-32CD32?style=for-the-badge"><span> </span>
-   </a>
 </p>
 
 <p align="center">
