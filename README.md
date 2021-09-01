@@ -12,8 +12,7 @@
    <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235E5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/><span> </span>
    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
    <img alt="VBA & Excel" src="https://img.shields.io/badge/VBA_%26_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><span> </span>
-   <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><span> </span>
-   <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><span> </span>
+   <img alt="HTML & CSS" src="https://img.shields.io/badge/HTML_%26_CSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><span> </span>
    <br/>
    <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><span> </span>
    <img alt="LaTeX" src="https://img.shields.io/badge/Latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><span> </span>
