@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-   Come visit my <a href="https://edmundgoodman.github.io/">website</a> to see more
+   Come visit my <a href="https://edmundgoodman.github.io/">website</a> (currently under construction!) to see more
 </p>
