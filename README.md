@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   Currently studying for a Computer Science MEng at the University of Warwick
+   Currently studying for a Computer Science BSc with intercalated year at the University of Warwick
 </p>
 
 
