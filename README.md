@@ -2,7 +2,7 @@
 
 
 <p align="center">
-   Currently studying for a Computer Science BSc with intercalated year at the University of Warwick
+   I'm currently studying at the University of Warwick for a Computer Science BSc with an intercalated year as a CAD design verification intern at Apple
 </p>
 
 
