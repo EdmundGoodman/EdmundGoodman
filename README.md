@@ -18,9 +18,6 @@
     <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
     <img alt="WSL" src="https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
-    <br/>
-    <img alt="Warwick" src="https://img.shields.io/badge/Warwick-5f2167?style=for-the-badge"/><span> </span>
-    <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/><span> </span>
 </p>
 
 <p align="center">
@@ -36,6 +33,9 @@
     <a href="https://www.linkedin.com/in/edmundgoodman/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
     </a>
+    <br/>
+    <img alt="Warwick" src="https://img.shields.io/badge/Warwick-5f2167?style=for-the-badge"/><span> </span>
+    <img alt="Apple" src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white"/><span> </span>
 </p>
 
 <p align="center">
