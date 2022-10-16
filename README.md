@@ -19,6 +19,8 @@
     <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
     <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
+    
 </p>
 
 <p align="center">
