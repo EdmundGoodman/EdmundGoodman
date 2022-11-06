@@ -1,4 +1,4 @@
-.PHONY: pdf clean
+.PHONY: pdf clean publish
 
 pdf:
 	@xelatex resume.tex
@@ -8,3 +8,4 @@ clean:
 
 publish:
 	@cp resume.pdf ../edmundGoodmanCV.pdf
+
