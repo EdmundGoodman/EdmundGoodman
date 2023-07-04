@@ -1,10 +1,12 @@
-.PHONY: pdf clean publish
-
+.PHONY: pdf
 pdf:
 	@xelatex resume.tex
 
+.PHONY: clean
 clean:
-	@rm -f resume.aux resume.log resume.out resume.pdf
+	@rm -f resume.aux resume.fdb_latexmk resume.fls resume.log resume.out \
+		resume.synctex.gz resume.xdv
 
+.PHONY: publish
 publish:
-	@cp resume.pdf ../edmundGoodmanCV.pdf
+	@mv resume.pdf ../edmundGoodmanCV.pdf
