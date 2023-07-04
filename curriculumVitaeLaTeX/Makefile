@@ -4,8 +4,7 @@ pdf:
 	@xelatex resume.tex
 
 clean:
-	@rm resume.aux resume.log resume.out
+	@rm -f resume.aux resume.log resume.out resume.pdf
 
 publish:
 	@cp resume.pdf ../edmundGoodmanCV.pdf
-

@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Edmund Goodman - Welcome to my GitHub</h1>
 
 <p align="center">
-    I'm currently studying at the University of Warwick for a Computer Science BSc with an intercalated year as a CAD design verification intern at Apple
+    I'm currently studying at the University of Warwick for a Computer Science BSc with an intercalated year as a CAD design verification intern at Apple.
 </p>
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
@@ -18,9 +18,9 @@
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/><span> </span>
     <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
-    <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
+    <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
-    
+
 </p>
 
 <p align="center">
