@@ -1,0 +1,220 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+% \addtolength{\oddsidemargin}{-0.75in}
+% \addtolength{\evensidemargin}{-0.75in}
+% \addtolength{\textwidth}{1.5in}
+% \addtolength{\topmargin}{-.75in}
+% \addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Edmund Goodman} \\ \vspace{1pt}
+    \href{mailto:egoodman3141@gmail.com}{\underline{egoodman3141@gmail.com}} $|$
+    \href{https://www.linkedin.com/in/EdmundGoodman}{\underline{linkedin.com/in/EdmundGoodman}} $|$
+    \href{https://github.com/EdmundGoodman}{\underline{github.com/EdmundGoodman}}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Warwick $|$ Apple Inc.}{Sept. 2020 -- Jun. 2024}
+      {Computer Science BSc (Hons) with intercalated year in industry; Grades: 80.8\%,78.4\%}{Coventry \& St Albans, UK}
+    \resumeSubheading
+      {The Perse Sixth Form}{Sept. 2018 -- Jun. 2020}
+      {Academic scholarship; A-levels in Maths, Further Maths, Physics, and Computer Science}{Cambridge, UK}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Academic Coordinator}{Sept. 2023 -- Jun. 2024}
+      {University of Warwick Computing Society}{Coventry, UK}
+      \resumeItemListStart
+        \resumeItem{Organise and run \href{https://uwcs.co.uk/about/}{\underline{academic events}}, including technical and industry talks, introductory programming courses, workshops, and revision sessions.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {CAD Design Verification Intern}{Jul. 2022 -- Jun. 2023}
+      {Apple Inc.}{St Albans, UK}
+      \resumeItemListStart
+        \resumeItem{Built tools and infrastructure for the design and design verification of Apple Silicon.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {iGEM Team Member}{Feb. 2021 -- Sept. 2021}
+      {University of Warwick iGEM team}{Coventry, UK}
+      \resumeItemListStart
+        \resumeItem{Lead the software aspect of the international gold medal winning 2021 Warwick team for the ``International Genetically Engineered Machine" synthetic biology competition.}
+        \resumeItem{Designed and implemented a \href{https://github.com/EdmundGoodman/Warwick_modelling}{\underline{stochastic model of the spread of antibiotic resistant pathogens}} which was nominated for best model, and created the \href{https://2021.igem.org/Team:Warwick}{\underline{wiki website}} showcasing the team's work.}
+    \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Engineering Intern}{Jul. 2020 -- Sept. 2020}
+      {HUBER+SUHNER Polatis}{Cambridge, UK}
+      \resumeItemListStart
+        \resumeItem{Updated a testing harness for fibre-optic switches from Python 2 to Python 3, refactored the VBA backend of a corporate planning Excel spreadsheet, and wrote a Java implementation of \href{https://tools.ietf.org/html/rfc8071}{\underline{NETCONF call home}} within the open source ONOS project.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\textbf{Computer Science Revision Guide}}{Apr. 2021 -- Jul. 2021}
+      \resumeItemListStart
+        \resumeItem{Co-founded and administrated an \href{https://warwick.guide/}{\underline{open source revision resource}} for the first year Warwick computer science course, used by over 100 students, and with contributions from over 25.}
+        \resumeItem{Managed pull requests and issues following open source best practices, communicated with the university to ensure the project was acceptable, and contributed to the notes for every module I took.}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{Engineering Education Scheme}}{Sept. 2018 -- Apr. 2019}
+      \resumeItemListStart
+        \resumeItem{Lead the software aspect of the school \href{https://github.com/EdmundGoodman/EES}{\underline{``Engineering Education Scheme'' entry}}, building an autonomous tennis ball collecting \href{https://drive.google.com/file/d/1t9qVtQVATlVSCroJkCgrlD1hFjH6NqUE/view}{\underline{robot}} to the help sports teachers.}
+        \resumeItem{Implemented first principles image recognition for tennis balls, and wrote a search algorithm to collect them, along with contributing to the hardware aspect, by manufacturing parts of the shell, battery, and flywheel mountings.}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+      {\textbf{Caius College Engineering Essay Prize}}{May. 2019 -- Sept. 2019}
+      \resumeItemListStart
+        \resumeItem{\href{https://www.cai.cam.ac.uk/news/winners-announced-2019-caius-prizes}{\underline{Awarded 1st place}} in the Caius College engineering essay contest, with an entry titled "Powering the UK's electricity supply - distributed systems to enhance the viability of renewable power".}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%
+%-----------ACHEIVEMENTS-----------
+\section{Acheivements}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Music}{: Trinity Guildhall Grade 8 Trumpet, ABRSM Grade 7 Singing, \href{https://procorda.com/}{\underline{Pro Corda}} national chamber music finalist (trumpet dectet), previous head chorister of Jesus College Choir} \\
+     \textbf{Cyber Discovery}{: Finalist to the ``Elite'' phase in 2017-19 of \href{https://joincyberdiscovery.com/}{\underline{Cyber Discovery}}. In 2018 from $\sim$30,000 I was one of $\sim$180 selected for the SANS course \href{https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling/}{\underline{SEC504}}: ``Hacker Tools, Techniques, Exploits, and Incident Handling'', and it's associated GIAC certification. In 2019 from $\sim$70,000 I was one of $\sim$240 selected for \href{https://www.sans.org/cyber-security-courses/windows-forensic-analysis/}{\underline{FOR500}}: ``Windows Forensic Analysis''} \\
+     \textbf{Gold Crest award, and Gold level industrial cadet}{: Awarded following completing the above EES project} \\
+     \textbf{Cadet Sergeant, Air Cadet Leadership Course graduate}{: Held responsibility over other cadets, and was one of $\sim$240 each year to graduate a demanding week long course at RAF Cranwell teaching practical leadership skills}
+    }}
+ \end{itemize}
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+%\section{Technical Skills}
+% \begin{itemize}[leftmargin=0.15in, label={}]
+%    \small{\item{
+%     \textbf{Languages}{: Python, Java, Haskell, Bash/Zsh, C, VBA, Javascript, BASIC, PHP, HTML, CSS, SQL} \\
+%    }}
+% \end{itemize}
+
+
+
+%-------------------------------------------
+\end{document}
