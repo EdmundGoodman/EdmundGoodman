@@ -91,7 +91,7 @@
 \newcommand{\resumeProjectHeading}[2]{
     \item
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
-      \small#1 & #2 \\
+      \textbf{#1} & #2 \\
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -101,7 +101,7 @@
 
 \newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
-\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=0.2in]}
 \newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 %-------------------------------------------
@@ -123,9 +123,16 @@
     \resumeSubheading
       {University of Warwick $|$ Apple Inc.}{Sept. 2020 -- Jun. 2024}
       {Computer Science BSc (Hons) with intercalated year in industry; Grades: 80.8\%,78.4\%}{Coventry \& St Albans, UK}
-    \resumeSubheading
-      {The Perse Sixth Form}{Sept. 2018 -- Jun. 2020}
-      {Academic scholarship; A-levels in Maths, Further Maths, Physics, and Computer Science}{Cambridge, UK}
+
+    \vspace{-2pt}\item
+      \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{The Perse Sixth Form} & Sept. 2018 -- Jun. 2020 \\
+        \textit{\small{Academic scholarship; A-levels in Maths (D2, eq. A*), Further Maths (D3, eq. A*/A),}} & \textit{\small{Cambridge, UK}} \\
+        \textit{\small{Physics (D1, eq. high A*), and Computer Science (A*)}} & \\
+      \end{tabular*}\vspace{-7pt}
+    % \resumeSubheading
+    %   {The Perse Sixth Form}{Sept. 2018 -- Jun. 2020}
+    %   {Academic scholarship; A-levels in Maths (D2, eq. A*), Further Maths (D3, eq. A*/A), Physics (D1, eq. high A*)}{Cambridge, UK}
   \resumeSubHeadingListEnd
 
 
@@ -133,33 +140,30 @@
 \section{Experience}
   \resumeSubHeadingListStart
 
-    \resumeSubheading
-      {Academic Coordinator}{Sept. 2023 -- Jun. 2024}
-      {University of Warwick Computing Society}{Coventry, UK}
+    \resumeProjectHeading
+      {Academic Coordinator $|$ University of Warwick Computing Society}{Sept. 2023 -- Jun. 2024}
       \resumeItemListStart
-        \resumeItem{Organise and run \href{https://uwcs.co.uk/about/}{\underline{academic events}}, including technical and industry talks, introductory programming courses, workshops, and revision sessions.}
+        \resumeItem{Organise and run academic events including technical and industry talks, introductory programming courses, workshops, and revision sessions, for example delivering a talk introducing \texttt{git} to new students.}
       \resumeItemListEnd
 
-    \resumeSubheading
-      {CAD Design Verification Intern}{Jul. 2022 -- Jun. 2023}
-      {Apple Inc.}{St Albans, UK}
+    \resumeProjectHeading
+      {CAD Design Verification Intern $|$ Apple Inc.}{Jul. 2022 -- Jun. 2023}
       \resumeItemListStart
-        \resumeItem{Built tools and infrastructure for the design and design verification of Apple Silicon.}
+        \resumeItem{Intercalated year in industry from my degree at the UK Design Centre for Apple Silicon in St Albans.}
+        \resumeItem{Built tools and infrastructure for the design and design verification of future Apple hardware.}
       \resumeItemListEnd
 
-    \resumeSubheading
-      {iGEM Team Member}{Feb. 2021 -- Sept. 2021}
-      {University of Warwick iGEM team}{Coventry, UK}
+    \resumeProjectHeading
+      {iGEM Team Member $|$ University of Warwick iGEM team}{Feb. 2021 -- Sept. 2021}
       \resumeItemListStart
-        \resumeItem{Lead the software aspect of the international gold medal winning 2021 Warwick team for the ``International Genetically Engineered Machine" synthetic biology competition.}
-        \resumeItem{Designed and implemented a \href{https://github.com/EdmundGoodman/Warwick_modelling}{\underline{stochastic model of the spread of antibiotic resistant pathogens}} which was nominated for best model, and created the \href{https://2021.igem.org/Team:Warwick}{\underline{wiki website}} showcasing the team's work.}
+        \resumeItem{Lead software for the international gold medal winning Warwick team for the iGEM synthetic biology competition.}
+        \resumeItem{Designed and implemented a stochastic model of the spread of antibiotic resistant pathogens which was nominated for best model (\href{https://2021.igem.org/Team:Warwick/Model}{\underline{2021.igem.org/Team:Warwick/Model}}); created the wiki website showcasing the team's work.}
     \resumeItemListEnd
 
-    \resumeSubheading
-      {Software Engineering Intern}{Jul. 2020 -- Sept. 2020}
-      {HUBER+SUHNER Polatis}{Cambridge, UK}
+    \resumeProjectHeading
+      {Software Engineering Intern $|$ HUBER+SUHNER Polatis}{Jul. 2020 -- Sept. 2020}
       \resumeItemListStart
-        \resumeItem{Updated a testing harness for fibre-optic switches from Python 2 to Python 3, refactored the VBA backend of a corporate planning Excel spreadsheet, and wrote a Java implementation of \href{https://tools.ietf.org/html/rfc8071}{\underline{NETCONF call home}} within the open source ONOS project.}
+        \resumeItem{Updated Python for fibre-optic switch test harnesses; refactored VBA backend of a corporate planning spreadsheet.}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
@@ -169,23 +173,23 @@
 \section{Projects}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\textbf{Computer Science Revision Guide}}{Apr. 2021 -- Jul. 2021}
+      {Computer Science Revision Guide}{Apr. 2021 -- Jul. 2021}
       \resumeItemListStart
-        \resumeItem{Co-founded and administrated an \href{https://warwick.guide/}{\underline{open source revision resource}} for the first year Warwick computer science course, used by over 100 students, and with contributions from over 25.}
+        \resumeItem{Co-founded and administrated an open source revision resource (\href{https://warwick.guide/}{\underline{warwick.guide/}}) for the first year Warwick computer science course, used by over 100 students, and with contributions from over 25.}
         \resumeItem{Managed pull requests and issues following open source best practices, communicated with the university to ensure the project was acceptable, and contributed to the notes for every module I took.}
       \resumeItemListEnd
 
     \resumeProjectHeading
-      {\textbf{Engineering Education Scheme}}{Sept. 2018 -- Apr. 2019}
+      {Engineering Education Scheme}{Sept. 2018 -- Apr. 2019}
       \resumeItemListStart
-        \resumeItem{Lead the software aspect of the school \href{https://github.com/EdmundGoodman/EES}{\underline{``Engineering Education Scheme'' entry}}, building an autonomous tennis ball collecting \href{https://drive.google.com/file/d/1t9qVtQVATlVSCroJkCgrlD1hFjH6NqUE/view}{\underline{robot}} to the help sports teachers.}
+        \resumeItem{Lead the software aspect of the school ``Engineering Education Scheme'' entry, building an autonomous tennis ball collecting \href{https://drive.google.com/file/d/1t9qVtQVATlVSCroJkCgrlD1hFjH6NqUE/view}{\underline{robot}} to the help sports teachers. (\href{github.com/EdmundGoodman/EES}{\underline{https://github.com/EdmundGoodman/EES}})}
         \resumeItem{Implemented first principles image recognition for tennis balls, and wrote a search algorithm to collect them, along with contributing to the hardware aspect, by manufacturing parts of the shell, battery, and flywheel mountings.}
       \resumeItemListEnd
 
     \resumeProjectHeading
-      {\textbf{Caius College Engineering Essay Prize}}{May. 2019 -- Sept. 2019}
+      {Caius College Engineering Essay Prize}{May. 2019 -- Sept. 2019}
       \resumeItemListStart
-        \resumeItem{\href{https://www.cai.cam.ac.uk/news/winners-announced-2019-caius-prizes}{\underline{Awarded 1st place}} in the Caius College engineering essay contest, with an entry titled "Powering the UK's electricity supply - distributed systems to enhance the viability of renewable power".}
+        \resumeItem{Awarded 1st place in the Caius College engineering essay contest, with an entry titled "Powering the UK's electricity supply - distributed systems to enhance the viability of renewable power". (\href{https://www.cai.cam.ac.uk/news/winners-announced-2019-caius-prizes}{\underline{www.cai.cam.ac.uk/news/winners-...}})}
       \resumeItemListEnd
 
   \resumeSubHeadingListEnd
