@@ -43,3 +43,17 @@
 <p align="center">
     Come visit my <a href="https://www.edmundgoodman.co.uk/">website</a> to see more!
 </p>
+
+<hr/>
+
+##### I'm currently working on...
+
+- An assessment of Rust's suitability for performant and productive implementations of HPC codebases (report coming soon!)
+- Software tooling to facilitate running performance experiments on HPC resources which use Slurm ([prototype documentation here](https://edmundgoodman.co.uk/hpc-multibench/))
+
+##### I'm interested in learning more about...
+
+- The fine details of interactions between compilers and compute hardware, particularly around how compiler optimisations apply to non-standard hardware configurations
+- Hardware description languages, hoping to get my hands dirty with some Verilog when I have a bit more free time
+- Reversible debugging tooling, such as `rr`
+- Functional programming through a category theoretic lens
