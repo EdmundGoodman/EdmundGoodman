@@ -49,7 +49,7 @@
 ##### I'm currently working on...
 
 - An assessment of Rust's suitability for performant and productive implementations of HPC codebases (report coming soon!)
-- Software tooling to facilitate running performance experiments on HPC resources which use Slurm ([prototype documentation here](https://edmundgoodman.co.uk/hpc-multibench/))
+- Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([prototype documentation here](https://edmundgoodman.co.uk/hpc-multibench/))
 
 ##### I'm interested in learning more about...
 
