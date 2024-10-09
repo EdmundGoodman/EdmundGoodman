@@ -1,7 +1,9 @@
 <h1 align="center"> :wave: I'm Edmund Goodman - Welcome to my GitHub</h1>
 
 <p align="center">
-    I'm currently studying at the University of Cambridge for an MPhil in Computer Science. I previously studied at the University of Warwick, and have spent some time as an academic officer at the <a href="https://uwcs.co.uk/">University of Warwick Computing Society</a> and as a CAD Design Verification intern at <a href="https://www.apple.com">Apple</a>.
+    I'm currently studying at the University of Cambridge for an MPhil in Computer Science.
+    <br/>
+    I previously studied at the University of Warwick, and have spent some time as an academic officer at the <a href="https://uwcs.co.uk/">University of Warwick Computing Society</a> and as a CAD Design Verification intern at <a href="https://www.apple.com">Apple</a>.
 </p>
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
