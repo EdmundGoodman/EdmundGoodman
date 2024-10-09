@@ -17,15 +17,16 @@
     <!--<img alt="VBA & Excel" src="https://img.shields.io/badge/VBA_%26_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><span> </span>-->
     <img alt="HTML & CSS" src="https://img.shields.io/badge/HTML_%26_CSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><span> </span>
     <br/>
-    <img alt="TeamCity" src="https://img.shields.io/badge/TeamCity-59A4FE?style=for-the-badge&logo=TeamCity&logoColor=white"/><span> </span>
-    <img alt="GitLab CI" src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/><span> </span>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><span> </span>
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/><span> </span>
+    <img alt="TeamCity" src="https://img.shields.io/badge/TeamCity-59A4FE?style=for-the-badge&logo=TeamCity&logoColor=white"/><span> </span>
+    <img alt="GitLab CI" src="https://img.shields.io/badge/gitlab%20ci-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/><span> </span>
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/><span> </span>
     <img alt="LaTeX" src="https://img.shields.io/badge/Latex-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><span> </span>
+    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"><span> </span>
+    <br/>
     <img alt="ZSH" src="https://img.shields.io/badge/ZSH-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/><span> </span>
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
-    <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"><span> </span>
     <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
     <!--<img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"><span> </span>-->
