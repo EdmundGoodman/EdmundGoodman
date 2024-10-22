@@ -1,4 +1,4 @@
-<h1 align="center"> :wave: I'm Edmund Goodman - Welcome to my GitHub</h1>
+<h1 align="center"> :wave: I'm Edmund Goodman - welcome to my GitHub</h1>
 
 <p align="center">
     I'm currently studying at the University of Cambridge for an MPhil in Computer Science.
@@ -69,5 +69,5 @@
 ##### I'm interested in learning more about
 
 - The fine details of interactions between compilers and compute hardware, particularly around how compiler optimisations apply to non-standard hardware configurations
-- Hardware description languages, hoping to get my hands dirty with some Verilog when I have a bit more free time
+- Hardware description languages, hoping to get my hands dirty with some Verilog (or BlueSpec :wink:) when I have a bit more free time
 - Functional programming through a category theoretic lens
