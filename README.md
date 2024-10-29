@@ -70,4 +70,3 @@
 
 - The fine details of interactions between compilers and compute hardware, particularly around how compiler optimisations apply to non-standard hardware configurations
 - Hardware description languages, hoping to get my hands dirty with some Verilog (or BlueSpec :wink:) when I have a bit more free time
-- Functional programming through a category theoretic lens
