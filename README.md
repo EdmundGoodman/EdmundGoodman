@@ -57,7 +57,7 @@
 
 ##### I'm currently working on
 
-- My Master's research project, investigating how we can improve the performance the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl)
+- My Master's research project, investigating how we can improve the performance of the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl)
 - Writing some more blog posts
 
 ##### I've recently finished working on
