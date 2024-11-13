@@ -57,7 +57,7 @@
 
 ##### I'm currently working on
 
-- My Master's research project, title to be decided soon...
+- My Master's research project, investigating how we can improve the performance the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl)
 - Writing some more blog posts
 
 ##### I've recently finished working on
@@ -69,4 +69,4 @@
 ##### I'm interested in learning more about
 
 - The fine details of interactions between compilers and compute hardware, particularly around how compiler optimisations apply to non-standard hardware configurations
-- Hardware description languages, hoping to get my hands dirty with some Verilog (or BlueSpec :wink:) when I have a bit more free time
+- Hardware description languages, hoping to get my hands dirty with some Verilog when I have a bit more free time
