@@ -62,7 +62,7 @@
 
 ##### I've recently finished working on
 
-- An assessment of Rust's suitability for performant and productive implementations of HPC codebases ([report here](https://github.com/EdmundGoodman/rust-in-hpc))
+- An assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [metarepo here](https://github.com/EdmundGoodman/rust-in-hpc))
 - Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/))
 - A discussion of the monoidal properties of Lasagne ([video here](https://youtu.be/9l9hcSIAAtM))
 
