@@ -58,6 +58,7 @@
 ##### I'm currently working on
 
 - My Master's research project, investigating how we can improve the performance of the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl) ([meta-repo here](https://github.com/EdmundGoodman/masters-project))
+- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations
 - Writing some more blog posts for [my website](https://edmundgoodman.co.uk/posts/)
 
 ##### I've recently finished working on
