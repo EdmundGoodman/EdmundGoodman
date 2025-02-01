@@ -62,7 +62,7 @@
 
 ##### I've recently finished working on
 
-- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations
+- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay))
 - An assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
 - Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/))
 - A discussion of the monoidal properties of Lasagne ([video here](https://youtu.be/9l9hcSIAAtM))
