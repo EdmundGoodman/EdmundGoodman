@@ -6,6 +6,7 @@
     I previously studied at the University of Warwick, and have spent some time as an academic officer at the <a href="https://uwcs.co.uk/">University of Warwick Computing Society</a> and as a CAD Design Verification intern at <a href="https://www.apple.com">Apple</a>.
 </p>
 
+<!--
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
     <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/><span> </span>
@@ -14,7 +15,6 @@
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><span> </span>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white"/><span> </span>
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
-    <!--<img alt="VBA & Excel" src="https://img.shields.io/badge/VBA_%26_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/><span> </span>-->
     <img alt="HTML & CSS" src="https://img.shields.io/badge/HTML_%26_CSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><span> </span>
     <br/>
     <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><span> </span>
@@ -29,8 +29,8 @@
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><span> </span>
     <img alt="EndeavourOS" src="https://img.shields.io/badge/EndeavourOS-FCC624?style=for-the-badge&logo=linux&logoColor=black"><span> </span>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
-    <!--<img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"><span> </span>-->
 </p>
+-->
 
 <p align="center">
     <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=EdmundGoodman&theme=default&hide_border=false">
