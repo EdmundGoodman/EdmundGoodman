@@ -63,7 +63,7 @@
 
 ##### I've recently finished working on
 
-- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay))
+- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay/releases/download/moodle-submission/R244_edjg2_project.pdf))
 - A performance evaluation of the [Jack's Gelato](https://www.jacksgelato.com/) online menu, motivating an [automatically generated web mirror with more desirable performance properties](https://edmundgoodman.co.uk/gelato/) ([blog post here](https://edmundgoodman.co.uk/posts/2024/a-faster-gelato/), [repo here](https://github.com/EdmundGoodman/jacks-menu))
 - An assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
 - Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/), [repo here](https://github.com/EdmundGoodman/hpc-multibench))
