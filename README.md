@@ -1,4 +1,4 @@
-<h1 align="center"> :wave: I'm Edmund Goodman - welcome to my GitHub</h1>
+<h1 align="center"> :wave: Hi, I'm Edmund</h1>
 
 <p align="center">
     I'm currently studying at the University of Cambridge for an MPhil in Advanced Computer Science.
@@ -54,6 +54,8 @@
 </h3>
 
 <hr/>
+
+I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 21st March 2025.
 
 ##### I'm currently working on
 
