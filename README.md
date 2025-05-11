@@ -64,14 +64,17 @@ I think my interests can be most effectively summarised by what I'm working on n
 
 ##### I've recently finished working on
 
-- An exploration of the explainable artificial intelligence paper [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](https://ojs.aaai.org/index.php/AAAI/article/view/11501) titled "Just Prune It? Evaluating Tree Regularisation and its Applicability to Explaining Concept Bottleneck Model Side-channels" ([repo here](https://github.com/EdmundGoodman/shrubbery), [writeup here](https://github.com/EdmundGoodman/l193-miniproject-essay/releases/download/moodle-submission/L193_edjg2_Project.pdf))
-- An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay/releases/download/moodle-submission/R244_edjg2_project.pdf))
-- A performance evaluation of the [Jack's Gelato](https://www.jacksgelato.com/) online menu, motivating an [automatically generated web mirror with more desirable performance properties](https://edmundgoodman.co.uk/gelato/) ([blog post here](https://edmundgoodman.co.uk/posts/2024/a-faster-gelato/), [repo here](https://github.com/EdmundGoodman/jacks-menu))
-- My Bachelor's degree project, an assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
-- Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/), [repo here](https://github.com/EdmundGoodman/hpc-multibench))
-- A discussion of the monoidal properties of Lasagne ([video here](https://youtu.be/9l9hcSIAAtM), [repo here](https://github.com/EdmundGoodman/The-Mathematics-of-Lasagne))
+- _(March 2025)_ An exploration of the explainable artificial intelligence paper [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](https://ojs.aaai.org/index.php/AAAI/article/view/11501) titled "Just Prune It? Evaluating Tree Regularisation and its Applicability to Explaining Concept Bottleneck Model Side-channels" ([repo here](https://github.com/EdmundGoodman/shrubbery), [writeup here](https://github.com/EdmundGoodman/l193-miniproject-essay/releases/download/moodle-submission/L193_edjg2_Project.pdf))
+- _(January 2025)_ An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay/releases/download/moodle-submission/R244_edjg2_project.pdf))
+- _(October 2024)_ A performance evaluation of the [Jack's Gelato](https://www.jacksgelato.com/) online menu, motivating an [automatically generated web mirror with more desirable performance properties](https://edmundgoodman.co.uk/gelato/) ([blog post here](https://edmundgoodman.co.uk/posts/2024/a-faster-gelato/), [repo here](https://github.com/EdmundGoodman/jacks-menu))
+- _(April 2024)_ My Bachelor's degree project, an assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
+- _(April 2024)_ Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/), [repo here](https://github.com/EdmundGoodman/hpc-multibench))
+- _(November 2023)_ A discussion of the monoidal properties of Lasagne ([video here](https://youtu.be/9l9hcSIAAtM), [repo here](https://github.com/EdmundGoodman/The-Mathematics-of-Lasagne))
 
 ##### I'm interested in learning more about
 
-- The fine details of interactions between compilers and compute hardware, particularly around how compiler optimisations apply to non-standard hardware configurations
-- Hardware description languages, hoping to get my hands dirty with some Verilog when I have a bit more free time
+- Hardware description languages, perhaps writing some Verilog for a small FPGA
+- Proof assistants, likely through the [Lean Natural Numbers Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
+- How we can build MLIR (or xDSL 😉) dialects to represent dynamic languages
+
+_Caveat: when I have any free time..._
