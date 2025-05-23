@@ -55,11 +55,12 @@
 
 <hr/>
 
-I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 21st March 2025.
+I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 23rd May 2025.
 
 ##### I'm currently working on
 
 - My Master's degree research project, investigating how we can improve the performance of the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl) ([meta-repo here](https://github.com/EdmundGoodman/masters-project))
+- ByteSight, a tracing profiler for Python bytecode ([repo here](https://github.com/EdmundGoodman/bytesight))
 - Writing some more blog posts for [my website](https://edmundgoodman.co.uk/posts/)
 
 ##### I've recently finished working on
@@ -76,5 +77,4 @@ I think my interests can be most effectively summarised by what I'm working on n
 - Hardware description languages, perhaps writing some Verilog for a small FPGA
 - Proof assistants, likely through the [Lean Natural Numbers Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4)
 - How we can build MLIR (or xDSL 😉) dialects to represent dynamic languages
-
-_Caveat: when I have any free time..._
+- _Caveat: when I have any free time..._
