@@ -71,7 +71,7 @@ I think my interests can be most effectively summarised by what I'm working on n
 - ByteSight, a tracing profiler for Python bytecode ([repo here](https://github.com/EdmundGoodman/bytesight))
 - Writing some more blog posts for [my website](https://edmundgoodman.co.uk/posts/)
 
-##### I've recently finished working on
+##### I've previously worked on
 
 - _(March 2025)_ An exploration of the explainable artificial intelligence paper [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](https://ojs.aaai.org/index.php/AAAI/article/view/11501) titled "Just Prune It? Evaluating Tree Regularisation and its Applicability to Explaining Concept Bottleneck Model Side-channels" ([repo here](https://github.com/EdmundGoodman/shrubbery), [writeup here](https://github.com/EdmundGoodman/l193-miniproject-essay/releases/download/moodle-submission/L193_edjg2_Project.pdf))
 - _(January 2025)_ An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay/releases/download/moodle-submission/R244_edjg2_project.pdf))
