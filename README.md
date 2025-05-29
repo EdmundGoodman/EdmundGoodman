@@ -32,13 +32,18 @@
 </p>
 -->
 
+<!--
 <p align="center">
     <img alt="GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=EdmundGoodman&theme=default&hide_border=false">
 </p>
+-->
 
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
+    <a href="https://www.edmundgoodman.co.uk/">
+        <img alt="Website" src="https://img.shields.io/badge/Website-808080.svg?style=for-the-badge"><span> </span>
+    </a>
     <a href="https://raw.githubusercontent.com/EdmundGoodman/EdmundGoodman/master/edmundGoodmanCV.pdf">
-        <img alt="Curriculum Vitae" src="https://img.shields.io/badge/Curriculum_Vitae-DC143C.svg?style=for-the-badge"><span> </span>
+        <img alt="CV" src="https://img.shields.io/badge/CV-DC143C.svg?style=for-the-badge"><span> </span>
     </a>
     <a href="https://www.linkedin.com/in/edmundgoodman/">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
@@ -49,10 +54,13 @@
     <img alt="Warwick" src="https://img.shields.io/badge/Warwick-5f2167?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIiA/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSIgd2lkdGg9IjEwODAiIGhlaWdodD0iMTA4MCIgdmlld0JveD0iMCAwIDEwODAgMTA4MCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxkZXNjPkNyZWF0ZWQgd2l0aCBGYWJyaWMuanMgNS4yLjQ8L2Rlc2M+CjxkZWZzPgo8L2RlZnM+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InRyYW5zcGFyZW50Ij48L3JlY3Q+CjxnIHRyYW5zZm9ybT0ibWF0cml4KDEgMCAwIDEgNTQwIDU0MCkiIGlkPSJkMmQyODgyYy01YWNhLTRiNDktOTBmMS1kZmRiMjcyOTQxOWYiICA+CjxyZWN0IHN0eWxlPSJzdHJva2U6IG5vbmU7IHN0cm9rZS13aWR0aDogMTsgc3Ryb2tlLWRhc2hhcnJheTogbm9uZTsgc3Ryb2tlLWxpbmVjYXA6IGJ1dHQ7IHN0cm9rZS1kYXNob2Zmc2V0OiAwOyBzdHJva2UtbGluZWpvaW46IG1pdGVyOyBzdHJva2UtbWl0ZXJsaW1pdDogNDsgZmlsbDogcmdiKDI1NSwyNTUsMjU1KTsgZmlsbC1ydWxlOiBub256ZXJvOyBvcGFjaXR5OiAxOyB2aXNpYmlsaXR5OiBoaWRkZW47IiB2ZWN0b3ItZWZmZWN0PSJub24tc2NhbGluZy1zdHJva2UiICB4PSItNTQwIiB5PSItNTQwIiByeD0iMCIgcnk9IjAiIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjEwODAiIC8+CjwvZz4KPGcgdHJhbnNmb3JtPSJtYXRyaXgoMSAwIDAgMSA1NDAgNTQwKSIgaWQ9ImMzZTZmMGMxLTA3ZjgtNDlkNC1hYjI1LTdmZGMyN2IzZDI0NCIgID4KPC9nPgo8ZyB0cmFuc2Zvcm09Im1hdHJpeCgyIDAgMCAyIDU0MCA1NTMpIiAgPgo8cG9seWdvbiBzdHlsZT0ic3Ryb2tlOiBub25lOyBzdHJva2Utd2lkdGg6IDE7IHN0cm9rZS1kYXNoYXJyYXk6IG5vbmU7IHN0cm9rZS1saW5lY2FwOiBidXR0OyBzdHJva2UtZGFzaG9mZnNldDogMDsgc3Ryb2tlLWxpbmVqb2luOiBtaXRlcjsgc3Ryb2tlLW1pdGVybGltaXQ6IDQ7IGZpbGw6IHJnYigyNTUsMjU1LDI1NSk7IGZpbGwtcnVsZTogbm9uemVybzsgb3BhY2l0eTogMTsiIHZlY3Rvci1lZmZlY3Q9Im5vbi1zY2FsaW5nLXN0cm9rZSIgIHBvaW50cz0iLTI1My40LC0xMjUgLTExMS40LDEyNSAwLjEsLTcyLjIgMTEyLjEsMTI1IDI1My40LC0xMjUgIiAvPgo8L2c+Cjwvc3ZnPg=="/><span> </span>
 </p>
 
+<!--
 <h3 align="center">
     Come visit my <a href="https://www.edmundgoodman.co.uk/">website</a> to see more!
 </h3>
+-->
 
+<br/>
 <hr/>
 
 I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 23rd May 2025.
