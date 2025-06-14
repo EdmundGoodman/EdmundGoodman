@@ -6,6 +6,7 @@
     I previously studied at the University of Warwick, and have spent some time as an academic officer at the <a href="https://uwcs.co.uk/">University of Warwick Computing Society</a> and as a CAD Design Verification intern at <a href="https://www.apple.com">Apple</a>.
 </p>
 
+
 <!--
 <p align="center" style="display:flex; justify-content: center; flex-wrap: wrap;"><span> </span>
     <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
@@ -55,22 +56,27 @@
 <br/>
 <hr/>
 
-I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 23rd May 2025.
+I think my interests can be most effectively summarised by what I'm working on now, what I've worked on in the past, and what I want to learn about in the future. This list was last updated on the 15th of June 2025.
 
 ##### I'm currently working on
 
-- My Master's degree research project, investigating how we can improve the performance of the [xDSL compiler toolkit](https://github.com/xdslproject/xdsl) ([meta-repo here](https://github.com/EdmundGoodman/masters-project))
-- ByteSight, a tracing profiler for Python bytecode ([repo here](https://github.com/EdmundGoodman/bytesight))
+- An optimising compiler for BrainF using xDSL, to demonstrate the end-to-end process of building a compiler backed onto the LLVM MLIR ecosystem in Python ([repo here](https://github.com/EdmundGoodman/xdsl-bf))
+- A performance optimisation for CPython's specialising adaptive interpreter
 - Writing some more blog posts for [my website](https://edmundgoodman.co.uk/posts/)
 
 ##### I've previously worked on
 
+- _(June 2025)_ My Masters's degree thesis, titled "Performance and Dynamism in User-extensible Compiler Infrastructures" and supervised by [Dr Tobias Grosser](https://grosser.science/) and [Sasha Lopoukhine](https://www.lopoukhine.com/)
+- _(June 2025)_ ByteSight, a tracing profiler for Python bytecode ([repo here](https://github.com/EdmundGoodman/bytesight))
 - _(March 2025)_ An exploration of the explainable artificial intelligence paper [Beyond Sparsity: Tree Regularization of Deep Models for Interpretability](https://ojs.aaai.org/index.php/AAAI/article/view/11501) titled "Just Prune It? Evaluating Tree Regularisation and its Applicability to Explaining Concept Bottleneck Model Side-channels" ([repo here](https://github.com/EdmundGoodman/shrubbery), [writeup here](https://github.com/EdmundGoodman/l193-miniproject-essay/releases/download/moodle-submission/L193_edjg2_Project.pdf))
 - _(January 2025)_ An investigation into the opportunities for shared memory parallelism in the [egg e-graph library](https://github.com/egraphs-good/egg) for equality saturation compiler optimisations ([fork here](https://github.com/EdmundGoodman/egg), [write-up here](https://github.com/EdmundGoodman/r244-miniproject-essay/releases/download/moodle-submission/R244_edjg2_project.pdf))
+- _(January 2025)_ A replication study of the paper [Where Has My Time Gone?](https://www.cl.cam.ac.uk/research/srg/netos/projects/latency/pam2017/) ([repo here](https://github.com/EdmundGoodman/l50-latency))
 - _(October 2024)_ A performance evaluation of the [Jack's Gelato](https://www.jacksgelato.com/) online menu, motivating an [automatically generated web mirror with more desirable performance properties](https://edmundgoodman.co.uk/gelato/) ([blog post here](https://edmundgoodman.co.uk/posts/2024/a-faster-gelato/), [repo here](https://github.com/EdmundGoodman/jacks-menu))
-- _(April 2024)_ My Bachelor's degree project, an assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
+- _(April 2024)_ My Bachelor's degree thesis, an assessment of Rust's suitability for performant and productive implementations of HPC codebases ([dissertation here](https://github.com/EdmundGoodman/CS310-dissertation/releases/download/tabula-submission/CS310_dissertation.pdf), [talk here](https://p3hpc.org/workshop/2024/program/#lightning-talks), [meta-repo here](https://github.com/EdmundGoodman/rust-in-hpc))
 - _(April 2024)_ Software tooling to facilitate running performance experiments on HPC resources through the Slurm workload manager ([documentation here](https://edmundgoodman.co.uk/hpc-multibench/), [repo here](https://github.com/EdmundGoodman/hpc-multibench))
+- _(December 2023)_ An LLVM-backed compiler written in C++ for a subset of the C language ([repo here](https://github.com/EdmundGoodman/CS325Coursework), [tests here](https://github.com/EdmundGoodman/minic-medium-tests))
 - _(November 2023)_ A discussion of the monoidal properties of Lasagne ([video here](https://youtu.be/9l9hcSIAAtM), [repo here](https://github.com/EdmundGoodman/The-Mathematics-of-Lasagne))
+- _(November 2021)_ A stochastic model of the spread of antibiotic resistant pathogens which was nominated for best model as part of the international gold medal winning Warwick team for the iGEM synthetic biology competition ([website here](https://warwick-igem-2021.github.io/), [repo here](https://github.com/EdmundGoodman/Warwick_modelling))
 
 ##### I'm interested in learning more about
 
